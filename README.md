@@ -11,6 +11,8 @@
 ### Relevant links
 Trello managing [\[Link\]](https://trello.com/b/hdTgl1O9/ab-test-vanguard)
 
+Canva ppt [\[Link\]](https://www.canva.com/design/DAGSgeqHb-I/tCCDpmCd3r0ze8Nx4QATUA/edit?utm_content=DAGSgeqHb-I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ### Business Problem
 
 Vanguard aims to enhance the user experience with a more intuitive interface and in-context prompts. The challenge is to determine if these changes will increase the completion rate of client processes.
